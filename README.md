@@ -1,2 +1,3 @@
-# creative5
-Project using mongoDB
+This is a database of user-entered jokes with capability to add a joke and retrieve all jokes.
+This could potentially delete all jokes, but I didn't want ot give that power to everybody...
+This was made with MongoDB and Node.js
